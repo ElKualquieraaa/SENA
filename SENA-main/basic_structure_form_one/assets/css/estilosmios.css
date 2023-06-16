@@ -1,0 +1,29 @@
+.tableUser td{
+    border: solid;
+    color: green;
+    width: 50px;
+    background-color: white;
+}
+.tableUser{
+    margin: auto;
+}
+.h1{
+    color:black
+}
+table td{
+    border: solid;
+    border-color: green;
+    background-color: white;
+}
+body{
+    background-image:url(descarga.jpg);
+    background-size: 110%
+}
+table th{
+    border: solid;
+    background-color: white;
+    border-color: green
+}
+.h1:hover{
+    color: green
+}
